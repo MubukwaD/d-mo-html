@@ -8,6 +8,12 @@ header{
    color: #fff;
    padding: 10px 0;
    padding-bottom: 5px;
+   text-align: center;
+}
+.photo{
+   margin: 10px;
+   width: 300px;
+   border-radius: 50%;
 }
 nav ul{
    display: inline;
